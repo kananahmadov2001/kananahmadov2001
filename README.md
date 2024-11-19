@@ -13,3 +13,7 @@ Welcome to my GitHub! I'm **Kanan Ahmadov**, a Computer Engineering student pass
 - [Movie Search App](https://github.com/kananahmadov2001/movie-search-app)
 
 Feel free to explore my repositories and connect with me!
+
+## 📊 GitHub Stats
+![Kanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kananahmadov2001&show_icons=true&theme=radical)
+
