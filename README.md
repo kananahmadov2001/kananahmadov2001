@@ -12,13 +12,6 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 - **Hardware**: Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="coding gif" width="600">
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/l3q2Ok1vk3K5BPX44/giphy.gif" width="480" height="480" alt="GIF">
 </div>
 
-<p align="center">
-  [GIF by Erica of Anderson](https://giphy.com/gifs/gif-artist-glas-2017-ericaofanderson-l3q2Ok1vk3K5BPX44)
-</p>
