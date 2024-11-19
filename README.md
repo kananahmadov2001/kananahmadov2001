@@ -11,3 +11,19 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 - **Technologies/Tools**: Linux, Git, Scikit-learn, Pandas, Node.js, React.js, AJAX, MySQL, MongoDB, AWS Cloud (EC2), Azure, SFTP, APIs, Agile/Scrum Methodologies, UI/UX Design
 - **Hardware**: Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 🔍 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue)
+
