@@ -6,6 +6,9 @@ As a computer engineering student, I’m passionate about both software and hard
 
 Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.kanan@wustl.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kananahmadov)
+
 ## 🌟 Skills
 - **Languages**: Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog
 - **Technologies/Tools**: Linux, Git, Scikit-learn, Pandas, Node.js, React.js, AJAX, MySQL, MongoDB, AWS Cloud (EC2), Azure, SFTP, APIs, Agile/Scrum Methodologies, UI/UX Design
