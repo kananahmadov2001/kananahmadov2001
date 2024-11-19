@@ -14,3 +14,8 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 ## 📊 GitHub Stats
 ![Kanan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kananahmadov2001&show_icons=true&theme=radical)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kananahmadov)
+
+
