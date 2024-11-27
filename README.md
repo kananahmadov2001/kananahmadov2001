@@ -10,3 +10,21 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 - **Languages**: Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog
 - **Technologies/Tools**: Linux, Git, Scikit-learn, Pandas, Node.js, React.js, AJAX, MySQL, MongoDB, AWS Cloud (EC2), Azure, SFTP, APIs, Agile/Scrum Methodologies, UI/UX Design
 - **Hardware**: Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
+
+| **Languages**            | **Technologies/Tools**                              | **Hardware**                              |
+|---------------------------|----------------------------------------------------|-------------------------------------------|
+| Java                     | Linux                                              | Arduino                                   |
+| Python                   | Git                                                | Raspberry Pi                              |
+| C/C++                    | Scikit-learn                                       | Circuit Design/Analysis                   |
+| JavaScript               | Pandas                                             | FPGA Design                               |
+| PHP                      | Node.js                                            | Embedded Systems Design                   |
+| Swift                    | React.js                                           | Semiconductors                            |
+| HTML / CSS               | AJAX                                               | Oscilloscopes/Logic Analyzer              |
+| MATLAB                   | MySQL                                              |                                           |
+| R                        | MongoDB                                            |                                           |
+| VHDL                     | AWS Cloud (EC2)                                    |                                           |
+| SystemVerilog            | Azure                                              |                                           |
+|                         | SFTP                                               |                                           |
+|                         | APIs                                               |                                           |
+|                         | Agile/Scrum Methodologies                           |                                           |
+|                         | UI/UX Design                                       |                                           |
