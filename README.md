@@ -12,7 +12,7 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 - **Hardware**: Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
 
 | **Languages** | **Dev Tools** | **Libraries & Frameworks** | **Databases** | **Hardware** |
-|---------------|------------------------|--------------|
+|---------------|---------------|----------------------------|---------------|--------------|
 | Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog | Linux, Git, AWS Cloud (EC2), Azure, SFTP, AJAX, APIs, Agile/Scrum Methodologies, UI/UX Design | Scikit-learn, Pandas, Node.js, React.js | MySQL, MongoDB, Firebase | Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
 
 
