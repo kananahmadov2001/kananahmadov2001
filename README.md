@@ -13,18 +13,5 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 
 | **Languages**            | **Technologies/Tools**                              | **Hardware**                              |
 |---------------------------|----------------------------------------------------|-------------------------------------------|
-| Java                     | Linux                                              | Arduino                                   |
-| Python                   | Git                                                | Raspberry Pi                              |
-| C/C++                    | Scikit-learn                                       | Circuit Design/Analysis                   |
-| JavaScript               | Pandas                                             | FPGA Design                               |
-| PHP                      | Node.js                                            | Embedded Systems Design                   |
-| Swift                    | React.js                                           | Semiconductors                            |
-| HTML / CSS               | AJAX                                               | Oscilloscopes/Logic Analyzer              |
-| MATLAB                   | MySQL                                              |                                           |
-| R                        | MongoDB                                            |                                           |
-| VHDL                     | AWS Cloud (EC2)                                    |                                           |
-| SystemVerilog            | Azure                                              |                                           |
-|                         | SFTP                                               |                                           |
-|                         | APIs                                               |                                           |
-|                         | Agile/Scrum Methodologies                           |                                           |
-|                         | UI/UX Design                                       |                                           |
+| Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog                     | Linux                                              | Arduino                                   |
+
