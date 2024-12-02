@@ -8,8 +8,11 @@ Feel free to reach out at a.kanan@wustl.edu if you'd like to connect!
 
 ## 🌟 Skills
 
-| **Languages** | **Dev Tools** | **Libraries/Frameworks** | **Databases** | **CAD** | **Hardware** |
-|---------------|---------------|----------------------------|-------------|---------|--------------|
-| Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog | Linux, Git, AWS Cloud (EC2), Azure, SFTP, AJAX, APIs, Agile/Scrum Methodologies, UI/UX Design | Scikit-learn, Pandas, Node.js, React.js | MySQL, MongoDB, Firebase | SOLIDWORKS, AutoCAD | Arduino, Raspberyy Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer
+- **Languages**: Java, Python, C/C++, JavaScript, PHP, Swift, HTML / CSS, MATLAB, R, VHDL, SystemVerilog  
+- **Dev Tools**: Linux, Git, AWS Cloud (EC2), Azure, SFTP, AJAX, APIs, Agile/Scrum Methodologies, UI/UX Design  
+- **Libraries/Frameworks**: Scikit-learn, Pandas, Node.js, React.js  
+- **Databases**: MySQL, MongoDB, Firebase  
+- **CAD**: SOLIDWORKS, AutoCAD  
+- **Hardware**: Arduino, Raspberry Pi, Circuit Design/Analysis, FPGA Design, Embedded Systems Design, Semiconductors, Oscilloscopes/Logic Analyzer  
 
 
